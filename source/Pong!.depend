@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1367162920 source:d:\games\pong!\main.c
+	"SDL/SDL.h"
+	"SDL/SDL_mixer.h"
+	"SDL/SDL_ttf.h"
+	"stdio.h"
+	"stdlib.h"
+	"time.h"
+
+1367237789 source:c:\users\runaldis\desktop\pong!\main.c
+	"SDL/SDL.h"
+	"SDL/SDL_mixer.h"
+	"SDL/SDL_ttf.h"
+	"stdio.h"
+	"stdlib.h"
+	"time.h"
+
